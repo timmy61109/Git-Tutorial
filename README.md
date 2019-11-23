@@ -1,3 +1,7 @@
+Git課程
+===
+除了 [Will 保哥](https://github.com/doggy8088)所撰寫的[Learn-Git-in-30-days](https://github.com/doggy8088/Learn-Git-in-30-days)外，加上了簡報的學習內容，同時希望學習的內容可以使用遊戲的方式讓人理解Git學習方式。
+
 30 天精通 Git 版本控管
 ====================
 
