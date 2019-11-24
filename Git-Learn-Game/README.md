@@ -7,35 +7,35 @@ Git學習遊戲是為了可以透過遊戲方式來學習Git，並真正的了�
 > 個人到群體  
 
 # 章節
-- 遊戲
+- [遊戲](#遊戲)
   - 你會怎麼做？
-  - 點
-    - 你會如何保存？
-    - 原點:init
-  - 線
-    - 你會如何紀錄？
-    - 產點生線:add、status、commit
-    - 觀點看線:log
-  - 支
-    - 你會如何協作？
-    - 製作支:branch
-    - 且換支:checkout
-    - 合併支:merge
-  - 進退
-    - 你會如何修正錯誤？
-    - 返回:reset
-    - 倒退:revert
-    - 你會如何站在巨人的肩膀上？
-    - 摘取:cherry-pick
-    - 站在巨人的肩膀:rebase
-  - 雲與地
-    - 你會如何備份與同步？
-    - clone、remote、fetch、pull、push
-  - 小技巧大功用
-    - 你會需要什麼？
-    - 圖釘與標籤:tag
-    - 看不見:.gitgnore
-    - 天在看:reflog
+- [點](#點)
+  - 你會如何保存？
+  - 原點:init
+- [線](#線)
+  - 你會如何紀錄？
+  - 產點生線:add、status、commit
+  - 觀點看線:log
+- [支](#支)
+  - 你會如何協作？
+  - 製作支:branch
+  - 且換支:checkout
+  - 合併支:merge
+- [進與退](#進與退)
+  - 你會如何修正錯誤？
+  - 返回:reset
+  - 倒退:revert
+  - 你會如何站在巨人的肩膀上？
+  - 摘取:cherry-pick
+  - 站在巨人的肩膀:rebase
+- [雲與地](#雲與地)
+  - 你會如何備份與同步？
+  - clone、remote、fetch、pull、push
+- [小技巧大功用](#小技巧大功用)
+  - 你會需要什麼？
+  - 圖釘與標籤:tag
+  - 看不見:.gitgnore
+  - 天在看:reflog
 
 還在製作:
 - 敏捷軟體開發、Scrum、DevOps
